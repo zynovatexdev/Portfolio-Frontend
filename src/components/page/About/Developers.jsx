@@ -26,8 +26,9 @@ import team from "../../../image/About/team.png";
 const Developers = () => {
   return (
     <>
+    <DevelopersTopic>Development Teams</DevelopersTopic>
       <DevelopersMainContainer>
-        <DevelopersTopic>Development Teams</DevelopersTopic>
+        
 
         <DevelopersTopic2>ZYNOVATEX Team</DevelopersTopic2>
         <br />
