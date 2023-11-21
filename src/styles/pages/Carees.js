@@ -1,5 +1,6 @@
 import styled from "styled-components";
 import ContactBackground from "../../Images/ContactBackground.png";
+import applicationbg from "../../image/applicationbg.png";
 
 export const ImageContainer = styled.div`
   position: relative;
@@ -259,7 +260,8 @@ export const BlueDiv = styled.div`
 `;
 
 export const GrayDiv = styled.div`
-  background-color: #cfcfd7;
+  background-image: url(${applicationbg});
+  background-color: #101035;
   width: 60%;
   height: 100%;
   color: black;
