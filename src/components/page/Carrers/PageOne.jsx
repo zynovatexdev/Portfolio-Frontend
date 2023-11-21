@@ -67,7 +67,7 @@ const PageOne = () => {
         <ImageText>
           <h1>We are offering tremendous career opportunities</h1>
           <p>
-            Join Our Dynamic Team: Explore Exciting Career Opportunities.
+            Join Our Dynamic Team : Explore Exciting Career Opportunities.
             Discover a world of possibilities with us. We're passionate about
             fostering growth, innovation, and professional development. Take the
             next step in your career journey with us
